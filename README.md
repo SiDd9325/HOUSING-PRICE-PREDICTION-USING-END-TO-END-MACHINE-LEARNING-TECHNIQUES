@@ -1,7 +1,3 @@
-Perfect! Below is your **updated GitHub-style article/README** with the new title:
-
----
-
 # 🏠 HOUSING PRICE PREDICTION USING END TO END MACHINE LEARNING TECHNIQUES
 
 This repository contains a complete, real-world **end-to-end machine learning pipeline** to predict **median house prices** in California districts using various socio-economic and geographic features.
